@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Demo](screenshot.png)
+![Weather App Demo]
 
 The Weather App is a simple web application that allows users to check the current weather conditions for a specific location. It utilizes HTML, CSS, and JavaScript to provide a user-friendly interface and real-time weather data fetched from a weather API.
 
