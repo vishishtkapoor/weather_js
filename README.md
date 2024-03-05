@@ -3,7 +3,7 @@
 ## Description
 This Weather App is a simple and user-friendly web application that allows users to check the current weather conditions for any location worldwide. With a clean and intuitive interface, users can easily search for a location, view real-time weather data, and access additional information like forecasts and historical weather data.
 
-![Weather App Screenshot](screenshot.png)
+![image](https://github.com/vishishtkapoor/weather/assets/138151981/0ef39ce5-e3e9-4ede-9081-79805c583c69)
 
 ## Features
 
